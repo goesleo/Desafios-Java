@@ -14,7 +14,7 @@ public class Desafio01 {
         System.out.println("É par? " + (n % 2 == 0));
         System.out.println("É ímpar? " + (n % 2 != 0));
 
-        sc.close();
+
     }
 
 }

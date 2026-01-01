@@ -13,7 +13,7 @@ public class Desafio06 {
         System.out.println("Adulto: " + (idade >= 18 && idade <= 59));
         System.out.println("Idoso: " + (idade >= 60));
 
-        sc.close();
+
     }
 
 }
